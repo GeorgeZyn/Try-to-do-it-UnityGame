@@ -4,4 +4,4 @@ RUS: Это мой первый доделанный до конца проек�
 
 Download itch-io: https://sigma-g.itch.io/trytodoit
 
-youtube: https://www.youtube.com/watch?v=cDX2UD3jN2I&t=49s&ab_channel=GeorgeGameDev
+youtube: https://www.youtube.com/watch?v=cDX2UD3jN2I&ab_channel=GeorgeGameDev
