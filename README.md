@@ -3,3 +3,5 @@ ENG: This is my first completed project, in which I set the goal of learning and
 RUS: Это мой первый доделанный до конца проект, в котором я ставил цель выучить и реализовать много разных механик. Поэтому в игре мало контента, но игра довольно не плохая (потому что там есть партиклы). Игра представляет из себя платформер, где игроку нужно уклоняться от врагов, которых всего 2 типа, также собирать монеты, за которые можно улучшить игрока в магазине. И так по кругу, пока не надоест.
 
 Download itch-io: https://sigma-g.itch.io/trytodoit
+
+youtube: https://www.youtube.com/watch?v=cDX2UD3jN2I&t=49s&ab_channel=GeorgeGameDev
